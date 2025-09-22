@@ -1,1 +1,1 @@
-In case it is unable to render the code blocks, click on the following links view them in nbviewer.
+In case the code blocks cannot be rendered, click on the following links view them in nbviewer.
