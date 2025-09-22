@@ -8,4 +8,4 @@ In case the code blocks cannot be rendered, click on the following links view th
 
 **Data_cleanup.ipynb:** https://nbviewer.org./github/jherde/Predicci-n-de-precios-Airbnb-Madrid/blob/main/Data_cleanup.ipynb
 
-**Predictive_Models.ipynb:** https://nbviewer.org./github/jherde/Predicci-n-de-precios-Airbnb-Madrid/blob/main/Predictive_Models.ipynb
+**Modelos_predictivos.ipynb:** https://nbviewer.org./github/jherde/Predicci-n-de-precios-Airbnb-Madrid/blob/main/Modelos_predictivos.ipynb
